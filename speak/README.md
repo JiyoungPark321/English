@@ -123,3 +123,70 @@
 - There's a bug zapper on the fridge.
   - 전기 벌레채가 냉장고 위에 있어.
   - bug zapper : 전기 벌레채 (zap 은 전기 충격을 주는 소리를 뜻함.)
+
+
+
+
+
+##### 3. day09 ) 내가 조금 이따가 갈게.
+
+> 1. in + 계절
+> 2. in + 월
+> 3. in +  기간
+> 4. 조금 이따가, 금방
+
+
+
+> evening : 저녁(오후 5-8시)
+>
+> night : 밤 (8시 이후)
+
+- I arrived in the evening.
+  - 나 저녁에 도착했어.
+- There are many weddings `in spring`.
+  - 봄에는 많은 결혼식이 있어.
+  - `spring` , `summer` , `fall` , `winter`
+
+- I go surfing in summer.
+  - 난 여름에 서핑을 하러 가.
+
+- It's still cold in February. 
+  - 2월에는 여전히 추워.
+  - February [Fe-byoo-eh-ree] 
+
+
+
+>in + 기간  : (지금으로부터) ~후에
+
+- I'll be done `in an hour`.
+  - 나 한 시간 후에 끝날 거야
+  - will : 의지, 계획
+  - `in half an hour` : 30분 후에 , `in a week` : 일주일 후에 , `in a month` : 한달 후에
+
+- You will speak in 2 seconds!
+  - 2초 후에 스피킹 하실 거예요!
+- I'll leave in half an hour.
+  - 나 30분 후에 떠날 거야.
+- I'll be there `in a minute`.
+  - 내가 조금 이따가, 바로 갈게.
+  - `in a bit` : 조금 후에, 곧
+  - `in a second` : 금세, 금방, 지금 바로
+- I'll help you in a minute.
+  - 제가 금방 도와드릴게요.
+
+
+
+> 기타표현
+
+- When do schools start in the U.S.?
+  - 미국에서는 학교 언제 시작해?
+- Many Korean people `get married` in spring.
+  - 많은 한국 사람들은 봄에 결혼해. 
+  - get married : 결혼하다.
+- `What about` in the U.S.?
+  - 미국은 어때? (미국에서는 어때?)
+  - `What about ~?`  : ~는 어때?
+- American weddings `last` half a day.
+  - 미국 결혼식은 한나절은 걸려.
+  - last : 지속되다, 이어지다
+
