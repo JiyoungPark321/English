@@ -8,7 +8,7 @@
 
 ### 1. 스피킹하며 시작 (왕초보 3탄)
 
-##### 1. day07 ) 난 학교를 부산에서 다녔어.
+##### day07 ) 난 학교를 부산에서 다녔어.
 
 ​	1) in + 도시/나라/지역
 
@@ -61,7 +61,7 @@
 
 
 
-##### 2. day08 ) 너 얼굴에 뭐 묻었어.
+##### day08 ) 너 얼굴에 뭐 묻었어.
 
 > on 은 표면과의 접촉을 나타낸다.
 
@@ -128,7 +128,7 @@
 
 
 
-##### 3. day09 ) 내가 조금 이따가 갈게.
+##### day09 ) 내가 조금 이따가 갈게.
 
 > 1. in + 계절
 > 2. in + 월
@@ -189,4 +189,84 @@
 - American weddings `last` half a day.
   - 미국 결혼식은 한나절은 걸려.
   - last : 지속되다, 이어지다
+
+
+
+
+
+##### day10 ) 주말에 뭐했어?
+
+> 요일 앞에는 on
+
+- Let's go to the movies on Saturday. 
+  - 토요일에 영화 보러 가자.
+  - the movies = movie theater 영화관
+  - go to the movie theater = go to the movies(이 표현을 더 선호)
+
+
+
+> 1. 주말에
+> 2. 보통/대부분의 주말에
+> 3. 주말 동안에
+
+- What did you do on the weekend?
+  - (지난) 주말에 뭐 했어?
+
+
+
+> 일/요일/주말 : on
+>
+> 일주일/월/연도 : in
+
+
+
+- weekend warrior : 주말에 취미 생활을 열심히 하는 사람.
+- I go surfing on weekends.
+  - 난 일반적인 주말에는 서핑하러 가. 
+  - `weekend + s` : 매 주말은 아니더라도 보편적으로 주말에 서핑을 하러 간다는 뜻.
+- I go hiking on Mondays.
+  - 월요일마다 하이킹 가.
+- I was at home `over the weekend`.
+  - 나 주말 동안에 집에 있었어.
+  - over the weekend : 주말 동안에 (기간을 의미, 금저녁~일요일)
+  - on the weekend : 주말에 (시점만을 강조)
+- I studied over the weekend.
+  - 난 주말 동안에 공부했어.
+- I cleaned my house over the weekend.
+  - 난 주말 동안에 공부했어.
+- I worked over the weekend.
+  - 난 주말 동안에 일했어.
+- I think I have to watch it one more time to get it.
+  - 내용을 이해하려면 한 번 더 봐야할 것 같아.
+- I didn't do anything over the weekend.
+  - 나 주말 동안 아무것도 안 했어.
+- I'm going to watch a movie with some friends over the weekend.
+  - 나 (이번) 주말 동안에 친구들과 영화를 볼 거야.
+- I have to work over the weekend.
+  - 나 주말 동안에 일해야 해.
+
+
+
+> 기타표현
+
+- My boyfriend's at a conference.
+  - 제 남자친구가 (어떤 한) 컨퍼런스에 있거든요.
+
+
+
+
+
+##### day11 ) 주말 동안 리뷰를 했어.
+
+
+
+#### 유닛 3. 필수 동사 have/do/get
+
+##### day12 ) 
+
+##### day13 ) 
+
+##### day14 )
+
+##### day15 ) 
 
