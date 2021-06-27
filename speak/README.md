@@ -4,11 +4,11 @@
 
 [TOC]
 
+## 1. 스피킹하며 시작 (왕초보 3탄)
 
 
-### 1. 스피킹하며 시작 (왕초보 3탄)
 
-##### day07 ) 난 학교를 부산에서 다녔어.
+### day07 ) 난 학교를 부산에서 다녔어.
 
 ​	1) in + 도시/나라/지역
 
@@ -61,7 +61,9 @@
 
 
 
-##### day08 ) 너 얼굴에 뭐 묻었어.
+
+
+### day08 ) 너 얼굴에 뭐 묻었어.
 
 > on 은 표면과의 접촉을 나타낸다.
 
@@ -128,7 +130,9 @@
 
 
 
-##### day09 ) 내가 조금 이따가 갈게.
+
+
+### day09 ) 내가 조금 이따가 갈게.
 
 > 1. in + 계절
 > 2. in + 월
@@ -194,7 +198,9 @@
 
 
 
-##### day10 ) 주말에 뭐했어?
+
+
+### day10 ) 주말에 뭐했어?
 
 > 요일 앞에는 on
 
@@ -223,13 +229,13 @@
 - weekend warrior : 주말에 취미 생활을 열심히 하는 사람.
 - I go surfing on weekends.
   - 난 일반적인 주말에는 서핑하러 가. 
-  - `weekend + s` : 매 주말은 아니더라도 보편적으로 주말에 서핑을 하러 간다는 뜻.
+  - <b>`weekend + s` : 매 주말은 아니더라도 보편적으로 주말에 서핑을 하러 간다는 뜻.</b>
 - I go hiking on Mondays.
   - 월요일마다 하이킹 가.
 - I was at home `over the weekend`.
   - 나 주말 동안에 집에 있었어.
-  - over the weekend : 주말 동안에 (기간을 의미, 금저녁~일요일)
-  - on the weekend : 주말에 (시점만을 강조)
+  - <b>over the weekend : 주말 동안에 (기간을 의미, 금저녁~일요일)</b>
+  - <b>on the weekend : 주말에 (시점만을 강조)</b>
 - I studied over the weekend.
   - 난 주말 동안에 공부했어.
 - I cleaned my house over the weekend.
@@ -256,17 +262,49 @@
 
 
 
-##### day11 ) 주말 동안 리뷰를 했어.
+
+
+### day11 ) 주말 동안 리뷰를 했어.
+
+> 리뷰
+
+ - I ran a mile at the gym.
+   	 - 나 헬스장에서 1마일 뛰었어.
+ - I had coffee at Blue Bottle,
+   	- 나 블루보틀에서 커피를 마셨어.
+- I'm at a concert right now.
+  - 나 지금 (어느 한) 콘서트에 있어.
+- Mom's in the garage.
+  - 엄마는 차고에 계셔.
+- You have some ketchup on your face.
+  - 너 얼굴에 케찹이 좀 묻었어.
+- I'm on the plane.
+  - 나 비행기에 있어, 나 비행기 타고 있어.
+- It's on Baker Street.
+    - (그것은) Baker 가에 있어.
+- Isn't it on your head?
+    - 네 머리 위에 있는 거 아냐?
+- I go surfing in summer.
+    - 나 여름에 수영을 하러가.
+- I'll be done in an hour.
+    - 나 한시간 후에 끝날 거야.
+- What do you have there?
+    - 거기 갖고 계신게 뭐예요?
+- The place on 2nd street?
+    - 2번가에 있는 그 곳이요?
+- But I can do it in two hours.
+    - 근데 2시간 후에 할 수 있어요.
+- I have lunch plans.
+    - 전 점심약속이 있어요.
+    - plans : n. 일상적인 친구와의 만남이나 식사 약속을 나타냄(보통 복수형으로 씀)
 
 
 
-#### 유닛 3. 필수 동사 have/do/get
+### day12 ) 
 
-##### day12 ) 
+### day13 ) 
 
-##### day13 ) 
+### day14 )
 
-##### day14 )
-
-##### day15 ) 
+### day15 ) 
 
