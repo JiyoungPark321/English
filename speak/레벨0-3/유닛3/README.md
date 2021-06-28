@@ -8,13 +8,13 @@
 
 > ### 유닛3. 필수 동사 have/do/get
 
-
+​          
 
 #### day12 ) 그는 사고 방식이 긍정적이야.
 
 > He has a positive mindset.
 
-
+​         
 
 > ##### have
 >
@@ -23,7 +23,7 @@
 > 3. -
 > 4. -
 
-
+​          
 
 ##### 1. 사람 및 사물 묘사
 
@@ -39,7 +39,7 @@
 
   - 그 가수는 목소리가 아름다워요.
 
-  
+  ​           
 
 - The suite has a great view.
 
@@ -49,18 +49,22 @@
 
   - 그 집은 수영장이 없어요.
 
-  
+  ​         
 
 - He has a positive mindset.
+  
   - 그는 긍정적인 사고방식을 갖고 있다.
 - Daniel has a nice personality.
+  
   - 다니엘은 좋은 성격을 가지고 있다.
 - Jim has a selfish personality.
+  
   - Jim 은 이기적인 성격을 가지고 있어. 
 - Jenna has a bad attitude.
+  
   - Jenna는 태도가 나빠.
 
-
+​         
 
 ##### 2. 하다, 경험하다
 
@@ -71,7 +75,7 @@
 - I had a bad experience.
   - 안 좋은 경험이였어. (안 좋은 경험을 겪었어.)
 
-
+​           
 
 > 실전대화1
 
@@ -97,9 +101,9 @@
 - Man and women have different testosterone levels.
   - 남자와 여자는 테스토스테론 (남성 호르몬) 수치가 달라요.
 
+​         
 
-
-
+​              
 
 #### day13 ) 
 
