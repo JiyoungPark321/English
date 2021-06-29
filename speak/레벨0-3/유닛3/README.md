@@ -1,6 +1,6 @@
 # Speak
 
-
+​               
 
 [TOC]
 
@@ -8,22 +8,22 @@
 
 > ### 유닛3. 필수 동사 have/do/get
 
-​          
+<br>
 
 #### day12 ) 그는 사고 방식이 긍정적이야.
 
 > He has a positive mindset.
 
-​         
+<br>
 
 > ##### have
 >
-> 1. 사람 및 사물 묘사
-> 2. 하다, 경험하다
-> 3. -
-> 4. -
+> 1. 사람 및 사물 묘사 (day12)
+> 2. 하다, 경험하다 (day12)
+> 3. 사람 관계 묘사 (day13)
+> 4. 먹다 마시다 (day13)
 
-​          
+<br>
 
 ##### 1. 사람 및 사물 묘사
 
@@ -39,7 +39,8 @@
 
   - 그 가수는 목소리가 아름다워요.
 
-  ​           
+
+<br>
 
 - The suite has a great view.
 
@@ -49,7 +50,8 @@
 
   - 그 집은 수영장이 없어요.
 
-  ​         
+
+<br>
 
 - He has a positive mindset.
   
@@ -64,7 +66,7 @@
   
   - Jenna는 태도가 나빠.
 
-​         
+<br>
 
 ##### 2. 하다, 경험하다
 
@@ -75,7 +77,7 @@
 - I had a bad experience.
   - 안 좋은 경험이였어. (안 좋은 경험을 겪었어.)
 
-​           
+<br>
 
 > 실전대화1
 
@@ -84,7 +86,7 @@
 - Who are you talking about?
   - 너 누구에 대해 말하고 있는거야?
 
-
+<br>
 
 > 실전대화2
 
@@ -101,15 +103,89 @@
 - Man and women have different testosterone levels.
   - 남자와 여자는 테스토스테론 (남성 호르몬) 수치가 달라요.
 
-​         
+<br>
 
-​              
+<br>
 
-#### day13 ) 
+<br>
+
+#### day13 ) 저는 아침에 커피를 한 잔 마셔요
+
+>  I have a cup of coffee in the morning.
+
+<br>
+
+##### 1. 사람 관계 묘사
+
+> have는 
+>
+
+- I have a younger brother.
+  - 저는 남동생이 있어요.
+- Do you have any siblings?
+  - 당신은 형제가 있나요?
+  - sibling : n. 형제
+
+<br>
+
+##### 2. 먹다, 마시다
+
+> eat, drink 를 포괄하는 have(섭취하다) 는 실생활에 많이 사용됨.
+>
+> have ⊃ eat, drink
+>
+> have : 섭취하다     /     eat : 먹다     /     drink : 마시다
+
+- I had a sandwich for lunch
+  - 저는 점심으로 샌드위치를 먹었어요.
+- Can I have some water?
+  - 물 좀 마실 수 있을까요?
+- Do you want to have dinner?
+  - 저녁 드실래요?
+- I have a cup of coffee in the morning.
+  - 저는 아침에 커피를 한 잔 마셔요.
+- I have a glass of wine at night.
+  - 저는 밤에 와인을 한 잔 마셔요.
+- I had a muffin for breakfast.
+  - 저는 아침으로 머핀을 하나 먹었어요.
+  - toast : 토스트     /     yogurt : 요구르트, 요거트     /     bagel : 베이글
+- I had a bowl of cereal for breakfast.
+  - 저는 아침으로 시리얼 한 그릇을 먹었어요.
+- What did you have for dinner?
+  - 너 저녁으로 뭐 먹었어?
+
+<br>
+
+> 실전대화1
+
+- -
+
+<br>
+
+> 실전대화2
+
+- And I had cup of iced coffee.
+  - 그리고 아이스커피 한잔을 마셨어요.
+- Do you have enough protein in your diet?
+  - 식단에 단백질이 충분히 있나요?
+  - protenin : n. 단백질
+  - diet : n. 식단, 식습관
+- Does freid chicken have protein?
+  - 후라이드 치킨은 단백질을 가지고 있나요?
+
+<br>
+
+<br>
+
+<br>
 
 #### day14)
 
-#### day15 ) 
+> 
+
+#### day15 )
+
+> 
 
 #### day16 ) 
 
