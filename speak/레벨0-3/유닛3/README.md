@@ -187,7 +187,7 @@
 
 <br>
 
-##### Do 동사
+##### Do 동사 (1부)
 
 ##### 1. 활동과 행동
 
@@ -293,9 +293,6 @@
   - strength training : n. 근력운동
 - You do have good mobility.
   - 좋은 유연성을 가지고 계시네요. (몸이 유연하시네요.)
-- 
-
-
 
 <br>
 
@@ -303,9 +300,91 @@
 
 <br>
 
-#### day15 )
+#### day15 ) 너한테 돈 줬다니까
 
-> 
+>  I did give you the money.
+
+<br>
+
+##### Do 동사 (2부)
+
+##### 1. do 동사로 의미 강조
+
+- You (do) know it.
+
+  - 너 그거 (분명히) 알고 있잖아.
+  - know 가 본동사
+  - do가 know를 강조
+
+- You do look tired.
+
+  - 너 정말 피곤해 보인다.
+
+- I did give you the money.
+
+  - 나 너한테 확실히 돈 줬어.
+  - did 가 give를 강조, 본동사인 give 동사원형으로 써줘야 함
+
+  > - I went to the gym.
+  >   - 나 헬스장에 갔어.
+  > - I did go to the gym.
+  >   - 나 헬스장에 진짜 갔어.
+
+  > - I study for exams.
+  >   - 나는 시험 공부를 해.
+  > - I do study for exams.
+  >   - 나는 진짜 시험 공부를 한다니까?
+
+- Are you sure you did the speaking practice yesterday?
+  - 어제 스피킹 연습 하신거 확실하세요?
+- I (did) do the Speaking Practice.
+  - 저 (진짜로) 스피킹 연습 했어요.
+  - did 는 do를 강조하는 것이기 때문에 두번 연속 나와도 됨.
+- I do do the speaking practice.
+  - 저는 스피킹 연습을 한다구요.
+  - do 를 연속으로 두번 사용해서 본동사 do 를 강조!
+- I did pay the rent.
+  - 나 확실히 월세 냈어.
+- I did text you back.
+  - 나 너한테 문자 답장 했다니까.
+- I did tell you.
+  - 나 너한테 분명히 말했어.
+
+<br>
+
+> 실전대화1
+
+- I did pay for it!
+  - 나 (그거) 확실히 지불했다니까!
+- Who ate the last cookie?
+  - 마지막 (남은) 쿠키 누가 먹었지?
+- I did give it to you.
+  - 나 (그거) 너한테 줬잖아.
+- I do remember.
+  - 분명 기억하지
+- How did we meet again?
+  - 난 (기억) 안 나는데. (다시 말해봐) 우리 어떻게 만났더라?
+  - 질문 뒤에 오는 again은 '예전에 얘기해 준 거 같은데 다시 얘기해줄래?' 같은 뉘앙스
+- Didn't you get it?
+  - 그거 못 받았어?
+
+
+
+<br>
+
+> 실전대화2
+
+- At this pace, you'll be fit and lean in no time.
+  - 이 페이스로 가시면, 금세 탄탄하고 슬림해지실 거예요.
+  - in no time : 금방 , 곧
+- Consistency is the key, whether it's studying English or working out.
+  - 꾸준함이 중요해요, 그게 영어 공부든 운동을 하는 거든.
+
+<br>
+
+<br>
+
+<br>
 
 #### day16 ) 
 
