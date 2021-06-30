@@ -115,6 +115,8 @@
 
 <br>
 
+##### have
+
 ##### 1. 사람 관계 묘사
 
 > have는 
@@ -179,9 +181,127 @@
 
 <br>
 
-#### day14)
+#### day14) 우리 할아버지는 건강이 안 좋으셔
 
-> 
+>  My grandfather's not doing well.
+
+<br>
+
+##### Do 동사
+
+##### 1. 활동과 행동
+
+> ~하다
+
+> do 는 주로 혼자하는 운동 / 맨몸 운동과 함께 사용됨.
+
+- I do yoga.
+  - 나는 요가를 해.
+- Andrew and I do yoga.
+  - Andrew 랑 나는 요가를 해.
+- I do pilates. 
+  - 나는 필라테스를 해.
+  - [필라리스]
+  - stretching , taekwondo[tai-kwon-do, 태권도이지만 타이-퀀-도 라고 발음하는 사람이 많음.]
+
+
+
+> 집안일, 청소와 함께 사용됨.
+
+- I do the laundry.
+  - 나는 빨래를 해.
+- I do the dishes.
+  - 나는 설거지를 해.
+  - wash the dishes (X)
+- I did the dishes.
+  - 나는 설거지를 했어.
+  - 설거지하다 : do the dishes 는 the 가 꼭 들어가야 한다.
+- do the dusting : 먼지털이를 하다
+- do the cooking :  요리를 하다
+- do the ironing : 다림질을 하다
+
+
+
+>  학업 / 업무
+>
+> - homework, research : 불가산 명사
+> - a project, a presentation : 가산 명사
+
+- I do homework.
+  - 나는 숙제를 해.
+- I did a presentation.
+  - 나는 프레젠테이션(발표)를 했어.
+- I do research.
+  - 나는 조사를 해.
+- I did a project.
+  - 나는 프로젝트를 하나 했어.
+- I did the assignment.
+  - 나는 그 과제를 했어.
+- I did the work.
+  - 나는 그 업무를 했어.
+
+
+
+<br>
+
+##### 2. 상황이나 컨디션
+
+> 상황 / 상태 / 컨디션
+
+- How are you doing?
+  - 어떻게 지내?
+- I doing well.
+  - 나는 잘 지내고 있어.
+- My grandfater's not doing well.
+  - 우리 할아버지는 건강이 안 좋으셔.
+- My business is doing well.
+  - 내 사업은 잘 돼가고 있어.
+
+<br>
+
+> 실전대화1
+
+- How do you stay fit?
+  - 어떻게 탄탄한 몸을 유지하세요?
+  - fit : a. (특히 운동으로 다져져 몸이) 건강한, 탄탄한
+- I didn't do your laundry.
+  - 나 네 빨래는 안 했는데.
+
+- Not so well.
+  - 그렇게 잘 지내진 못해.
+
+
+
+> do laundry   vs   do the laundry
+>
+> : 일반적으로 '빨래를 하다' 라고 할 때는 do laundry 를 쓰고, 특정하게 해야하는 빨래감에 대해 서로 인지하고 있는 상태라면 do the laundry 라고 하면 된다.
+
+
+
+<br>
+
+> 실전대화2
+
+- I didn't do them.
+  - 저 (그것들은) 안 했어요.
+- Otherwise, you won't see much progress.
+  - 그렇지 않으면, 별 진전을 보지 못하실 거예요.
+  - otherwise : 접. 그렇지 않으면
+  - progress : n. 발전, 진전
+- But I don't do strength training.
+  - 근데 근력 훈련은 하지 않아요.
+  - strength training : n. 근력운동
+- You do have good mobility.
+  - 좋은 유연성을 가지고 계시네요. (몸이 유연하시네요.)
+- 
+
+
+
+<br>
+
+<br>
+
+<br>
 
 #### day15 )
 
