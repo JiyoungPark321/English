@@ -386,8 +386,141 @@
 
 <br>
 
-#### day16 ) 
+#### day16 ) 드립을 이해 못했어
 
-#### day17 ) 
+>  I didn't get the joke.
 
-#### day18 ) 
+<br>
+
+##### GET
+
+> 샀어, 도착했어, 기분이 안 좋았어, 이해 못 했어
+
+##### 1. 얻다, 사다, 획득하다, 소유하게 되다
+
+> 무엇이 없는 상태에서 있는 상태가 되었을 때
+
+- I got a new car.
+  - 나 새 차를 샀어.
+- I want to get new shoes.
+  - 나는 새 신발이 갖고 싶어.
+
+
+
+##### 2. 이해하다, 요지/요점을 얻는다
+
+> get vs got 
+>
+> : 한국말에서 '이해가?' , '이해했어?' 가 시제가 달라도 비슷한 의미로 쓰이는 것처럼 영어도 마찬가지
+
+- I didn't get the joke.
+  - 그 농답을 이해하지 못했어.
+- Did you get the main point?
+  - 요점을 이해했어?
+- I don't get this question.
+  - 이 질문은 이해가 안가.
+- I don't get it.
+  - 이해 못 하겠어요. 무슨 말인지 모르겠어요.
+- I get it.
+  - 이해하겠어. 무슨말인지 알겠어.
+- Did you get the plot?
+  - 줄거리를 이해했어?
+  - plot : (소설, 영화 등의) 줄거리, 내용, 구성
+- Do you get the lyrics?
+  - 가사가 이해가 돼?
+
+<br>
+
+> 실전대화1
+
+- A beamer?  Can I get a ride?
+  - 비머? 타봐도 돼?
+  - beamer :  BMW의 별칭, 닉네임
+- I got it for my birthday.
+  - 응. 내 생일 (선물로) 샀어.
+- Did you get something from Amazon?
+  - 아마존에서 뭐 샀어?
+- What are you listening to?
+  - 뭐 듣고 있어?
+- This song is in English.
+  - 이 노래 영어로 되어 있는데.
+
+
+
+<br>
+
+> 실전대화2
+
+- Did you get any other gym gear?
+  - 뭐 다른 운동 용품은 사셨나요?
+  - gear : n. 용품, 장비
+
+<br>
+
+<br>
+
+<br>
+
+#### day17 ) 경기가 흥미진진해졌어
+
+>  The game got exciting.
+
+<br>
+
+##### Do 동사 (2부)
+
+##### 1. do 동사로 의미 강조
+
+- 
+
+<br>
+
+> 실전대화1
+
+- 
+
+
+
+<br>
+
+> 실전대화2
+
+- 
+
+<br>
+
+<br>
+
+<br>
+
+#### day18 ) 유닛을 확실히 이해했어
+
+>  동사의 다양한 의미를 알면 표현력이 상승한다.
+
+<br>
+
+##### Do 동사 (2부)
+
+##### 1. do 동사로 의미 강조
+
+- 
+
+<br>
+
+> 실전대화1
+
+- 
+
+
+
+<br>
+
+> 실전대화2
+
+- 
+
+<br>
+
+<br>
+
+<br>
